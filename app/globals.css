@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+  font-size: 62.5%;
+}
+.btn-nav{
+  border: 0;
+  border-right: 2px solid black;
+  border-left: 2px solid black;
+  padding: 0.4rem 1.3rem ;
+}
+.btn-nav2{
+  border: 0;
+  border-right: 2px solid black;
+  padding: 0.4rem 1.3rem ;
+}
+.btn-nav3{
+  border: 0;
+  /* border-right: 2px solid black; */
+  padding: 0.4rem 1.3rem ;
+}
